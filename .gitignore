@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+data/
+weights/
+outputs/video/
+.DS_Store
+context.md
+outputs/sam_candidates/
+outputs/sam_explore/

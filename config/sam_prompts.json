@@ -1,0 +1,16 @@
+{
+  "10":  {"eggs": [[[280, 384]]], "note": "leaves over the egg break the solidity rule"},
+  "11":  {"eggs": [[[280, 240]]], "note": "leaves over the egg break the solidity rule"},
+  "12":  {"eggs": [[[320, 336]]], "note": "leaves over the egg break the solidity rule"},
+  "20":  {"eggs": [[[248, 216]]], "note": "dark, backlit photo fails the brightness rule"},
+  "24":  {"eggs": [[[296, 296]]], "note": "dark, backlit photo fails the brightness rule"},
+  "39":  {"eggs": [[[456, 248]]], "note": "egg missed by the automatic filter"},
+  "44":  {"eggs": [[[264, 248]]], "note": "close-up cut off by the frame fails the ellipse rule"},
+  "117": {"eggs": [[[300, 200], [460, 170]]], "note": "rod across the egg; one click on each side"},
+  "119": {"eggs": [[[248, 360]]], "note": "grey egg on foil"},
+  "124": {"eggs": [[[392, 280]]], "pick": "smallest", "note": "egg blurred by boiling water; most confident guess was the whole bowl; boundary uncertain"},
+  "135": {"eggs": [[[392, 304]]], "pick": "smallest", "note": "egg blurred by boiling water; most confident guess was the whole bowl; boundary uncertain"},
+  "145": {"eggs": [[[360, 352]]], "pick": "smallest", "note": "egg blurred by boiling water; most confident guess was the whole bowl; boundary uncertain"},
+  "144": {"eggs": [[[184, 256]], [[488, 216]], [[272, 64]]], "note": "third egg cut by the top edge was missed"},
+  "160": {"eggs": [[[352, 240]]], "note": "egg in hand missed by the automatic filter"}
+}

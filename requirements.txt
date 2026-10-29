@@ -1,0 +1,11 @@
+# Python 3.12. Install with: uv venv --python 3.12 .venv && uv pip install -r requirements.txt
+numpy==2.5.4            # images as arrays of numbers
+opencv-python==5.0.0.93 # classical image processing and video I/O
+torch==2.15.0           # runs SAM (uses Apple MPS on M-series Macs)
+torchvision==0.29.2
+segment-anything==1.0   # Meta's SAM code; weights downloaded separately
+matplotlib==3.11.2      # plots and figures
+pillow==13.0.0          # image loading for hashing
+imagehash==4.3.2        # perceptual hashes for the leakage-aware split
+scipy==1.18.1           # Hungarian matching for tracking
+markdown==3.11.2          # report: Markdown to HTML before printing to PDF

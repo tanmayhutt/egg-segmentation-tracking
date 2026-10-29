@@ -1,0 +1,23 @@
+image,scene,iou,precision,recall
+3,white towel with blue and yellow stripes,0.3059,0.3199,0.8751
+4,white towel with blue and yellow stripes,0.2835,0.2908,0.9182
+5,white towel with blue and yellow stripes,0.147,0.1475,0.9808
+6,white towel with blue and yellow stripes,0.1347,0.1349,0.9919
+14,ash pile,0.1686,0.1713,0.9145
+27,ash pile,0.2574,0.2661,0.8873
+29,brown marble against a wall,0.5756,0.8563,0.6372
+31,red lid on a tiled floor,0.1693,0.1772,0.7919
+36,ash pile,0.2964,0.3038,0.9242
+41,ash pile,0.2818,0.2936,0.8756
+50,ash pile,0.1669,0.1767,0.7518
+78,ash pile,0.2613,0.2685,0.907
+113,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+114,"steel bowl or plate, some with boiling water",0.265,0.2706,0.9267
+124,"steel bowl or plate, some with boiling water",0.1088,0.1089,0.9917
+128,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+129,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+135,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+145,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+147,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+153,"steel bowl or plate, some with boiling water",0.0,0.0,0.0
+159,"steel bowl or plate, some with boiling water",0.7083,0.7461,0.9334
