@@ -20,6 +20,7 @@ The report is `docs/report.pdf`. The full trial-by-trial record is `docs/experim
 | v8 precision / recall | 0.61 / 0.68 | 0.54 / 0.64 |
 
 Tracking: 2 IDs for the 2 eggs across the whole 32 s egg segment of the video.
+Tracked video: https://drive.google.com/file/d/1DC3uYRb500AILF8IBrBE3OaTCb-4HBh4/view?usp=sharing
 
 ## Setup
 
