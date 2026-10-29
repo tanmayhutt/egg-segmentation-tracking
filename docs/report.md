@@ -2,7 +2,7 @@
 
 Computer Vision Intern assignment, Nosh Robotics (Euphotic Labs). Tanmay Hutt, October 2026.
 
-Code: `<GITHUB_REPO_URL>`. Tracking video: `<GOOGLE_DRIVE_LINK>`.
+Code: https://github.com/tanmayhutt/egg-segmentation-tracking. Tracking video: `<GOOGLE_DRIVE_LINK>`.
 
 ## 1. Summary
 
